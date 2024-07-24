@@ -1,5 +1,7 @@
 # Employee Database Management
 
+! [Database Management Logo](https://github.com/TetianaBovanenko/DatabaseManagement/blob/main/PYTHON%20PROJECT.png?raw=true)
+
 ## Project Description
 
 This project is a Python script that interacts with a MySQL database to manage employee records. The script performs the following tasks:
