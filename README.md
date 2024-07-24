@@ -1,6 +1,6 @@
 # Employee Database Management
 
-! [Database Management Logo](https://github.com/TetianaBovanenko/DatabaseManagement/blob/main/PYTHON%20PROJECT.png?raw=true)
+![Database Management Logo](https://github.com/TetianaBovanenko/DatabaseManagement/blob/main/PYTHON%20PROJECT.png?raw=true)
 
 ## Project Description
 
