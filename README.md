@@ -27,7 +27,9 @@ This project is a Python script that interacts with a MySQL database to manage e
   - `mysql-connector-python`
   - `Faker`
 
-You can install the required Python libraries using pip:
+## Installation
 
-```bash
-pip install mysql-connector-python Faker
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your_username/employee_db_project.git
+   cd employee_db_project
